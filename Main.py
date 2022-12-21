@@ -14,7 +14,7 @@ scopes = [
     'https://www.googleapis.com/auth/drive'
 ]
 
-# setting up the credentials
+# setting up the credentials. Passing the credentials by json file 
 credentials1 = ServiceAccountCredentials.from_json_keyfile_name('service_account.json', scopes=scopes)
 gc = gspread.authorize(credentials1)
 
