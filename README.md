@@ -18,11 +18,12 @@ and preparing main ppt for presentation
 * Matplotlib
 
 
-<Details>  
-<summary>Files_Info</summary> 
-  <Details>
-    <summary>Main.py</summary>
-    [Main.py](https://github.com/deepakver484/Investment-Advisor/blob/main/Main.py)
-  </Details>  
-</Details>
+## Files_Info
+
+* ### [Main.py](https://github.com/deepakver484/Investment-Advisor/blob/main/Main.py)
+  
+  The main.py file is the heart of the Investment Advisor project. With all the essential code encapsulated within, this file empowers users to make intelligent investment decisions. Leveraging Python's libraries and frameworks, it performs data analysis, preprocessingto generate personalized investment recommendations. Seamlessly integrating with other modules, the main.py file simplifies the complexities of investment strategies, enabling users to navigate financial markets with ease.
+  
+  
+* ### [DashBoard.xlsx](https://github.com/deepakver484/Investment-Advisor/blob/main/DashBoard.xlsx)
 
