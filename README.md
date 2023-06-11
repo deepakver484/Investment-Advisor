@@ -8,3 +8,21 @@ doing comupatation using python
 populating another gspread sheet name is report
 creating a dashboard using excel
 and preparing main ppt for presentation
+
+
+## Tech-Stack
+* Gspread
+* Python
+* Numpy
+* Pandas
+* Matplotlib
+
+
+<Details>  
+<summary>Files_Info</summary> 
+  <Details>
+    <summary>Main.py</summary>
+    [Main.py](https://github.com/deepakver484/Investment-Advisor/blob/main/Main.py)
+  </Details>  
+</Details>
+
